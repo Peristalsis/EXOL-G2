@@ -1,5 +1,5 @@
 {
-  "title": "Exol Глава 2",
+  "title": "Exol",
   "description": "Простите за технические неполадки, пришлось делать здесь, вот ссылка на голосование - https://forms.gle/sjrLRbrjZYiygFKP8 и на наш тгк - @EXOLOS",
   "artist": "Peristalsis",
   "author": "Peristalsis",
@@ -8,10 +8,10 @@
     "<chapter number>": {
       "title": "Стрела",
       "volume": "52",
+      "last_updated": "1616368746",
       "groups": {
         "EXOL": "exol-2-UIJxmj5"
-      },
-      "last_updated": "1616368746"
+      }
     }
   }
 }
